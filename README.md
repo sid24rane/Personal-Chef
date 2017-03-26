@@ -20,6 +20,27 @@ An Self learning AI Chatbot who doesnt let you waste food by recommending awesom
         - Nutrition content - (FATs,Energy,Carbohydrates and many more)
         - Rating provided by users on the recipe
 
+# Screenshots
+<h2>Splash Screen</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/Splash%20Screen.png" width="400" height="640">
+<h2>Home screen</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/Home%20Screen.png" width="400" height="640">
+<h2>Voice Input</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/Adding%20Item%20Via%20Voie%20Input.png" width="400" height="640">
+<h2>All Recipes</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/All%20Recipes.png" width="400" height="640">
+<h2>Recipe Details</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/Recipe%20Details%201.png" width="400" height="640">
+<h2>Recipe Details</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/Recipe%20Detials%202.png" width="400" height="640">
+<h2>Feedback</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/Feedback.png" width="400" height="640">
+<h2>About Us</h2>
+<img src="https://raw.githubusercontent.com/sid24rane/Personal-Chef/master/screenshot/About%20Us.png" width="400" height="640">
+
+
+
+
 # Tech
 
 Personal Chef uses a number of technologies to work properly:
