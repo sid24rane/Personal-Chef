@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projects\Personalchef\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9199301372cae7fd6be4ffe499be4e15db41690">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_00ede2d6bdd7433c19acc3c3a807301870ae2472\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sarthak\.android\build-cache\95165e182ec6b42a77dda6695d29628952a44783\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\pre-dexed\debug\classes_9b66d4f3473f97e7bd75c2bbf7b736a1fa9948b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projects\Personalchef\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2fb5fdd95c9c3580a1d28c965f02a7405fe42c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sarthak\.android\build-cache\366f4398eadd4bf5c13b8e36392b5b489b4969ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\pre-dexed\debug\classes_3fd84cfb13f92b8dba2cd943ebb8fdf6e3cf6c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sarthak\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\pre-dexed\debug\glide-3.7.0_8fb602893caa7b31d8d83b7f8b33a37f3a827eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sarthak\.android\build-cache\3e7fc9820e1688e98be158d4dc5c8f8e2a581757\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\pre-dexed\debug\classes_b88f9bdd015b7720c4bbf582747010249b2bc7c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sarthak\.android\build-cache\226fb7cc28d484d64117fc9679f79ae75c787e8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\pre-dexed\debug\classes_555af71195e47a0d1b5886adcb8b6b782f13d325.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sarthak\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.2\d7ef6ad7ff0711dd12fe409d62d72d6ed14516e0\log4j-api-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7ef6ad7ff0711dd12fe409d62d72d6ed14516e0">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10\log4j-api-2.2_d42f664ad591f8daacd04508afbae5bec0ce169f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sarthak\.android\build-cache\1d32b02602e6a8d55bc862c13240420a9ac8185e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\pre-dexed\debug\classes_eefd52082c536bf7435720c8ff48601967444267.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sarthak\.android\build-cache\5f100cbbeb7491b87307196f21617c88cef6280f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eff74f6c0ec5db858ddb943293604c0845217c76">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0f17aa7a563e1c38986d3f49e4ad177638a3391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sarthak\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.2\c707664e020218f8529b9a5e55016ee15f0f82ac\log4j-core-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c707664e020218f8529b9a5e55016ee15f0f82ac">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10\log4j-core-2.2_c9bb2af5aa92528d339ba6e3cc424cbc45e37772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sarthak\.gradle\caches\modules-2\files-2.1\ai.api\libai\1.4.8\1386bf51c371e40bf1dc04920b04bd937c04e8ba\libai-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1386bf51c371e40bf1dc04920b04bd937c04e8ba">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10\libai-1.4.8_9a24807e2b3a39726170c914ac0e36319c6be417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sarthak\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Android\Projects\Personalchef\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_96d9f693f8579cda7fe4fee88f8e2d5b31775be4\classes.dex" />
+    </item>
+
+</items>

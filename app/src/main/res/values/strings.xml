@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Personal chef</string>
+    <string name="url_string"><u>Click Here For The Recipe</u></string>
+</resources>
