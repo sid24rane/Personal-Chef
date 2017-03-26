@@ -1,4 +1,4 @@
-#Personal Chef
+# Personal Chef
 
 Don't Know what to COOK ??
 Our Personal Chef can help you!
@@ -28,9 +28,6 @@ Personal Chef uses a number of technologies to work properly:
 * [API.Ai] - Conversational User Experience API providing chatbot
 * [Android API's] - Frontend
 * [Material Design] - great UI design patterns for Android apps
-* 
-And of course Personal Chef itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Installation
 
