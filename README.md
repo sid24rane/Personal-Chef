@@ -50,10 +50,7 @@ Personal Chef uses a number of technologies to work properly:
 * [Android API's] - Frontend
 * [Material Design] - great UI design patterns for Android apps
 
-### Installation
 
-Just download the apk from the link given below
-[downloadlink]
 
 ### Open Source Libraries
 
